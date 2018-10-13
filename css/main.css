@@ -9,6 +9,12 @@ body {
   background: #06021d;
   width: 100%;
 }
+
+.spa-block{
+  width: 100%;
+  height: 100Vh;
+}
+
 .wrap-spa__block {
   display: -webkit-box;
   display: -ms-flexbox;
